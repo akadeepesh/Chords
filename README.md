@@ -47,3 +47,9 @@ Thank you for contributing to our project! Your support is invaluable in creatin
   <img src="https://contrib.rocks/image?repo=upsidedownlabs/Chords-Web" />
 </a>
 </center>
+
+---
+
+<p align="center"><sub>
+  Built by <a href="https://akadeepesh.com?ref=github">Deepesh Kumar</a> · more work at <a href="https://akadeepesh.com?ref=github">akadeepesh.com</a>
+</sub></p>
